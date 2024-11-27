@@ -3,6 +3,11 @@
 ## Description
 A Python script to download Instagram posts by username or specific post links using the Instaloader library.
 
+
+https://github.com/user-attachments/assets/da4e503d-c6d3-42e6-a3cf-b551dcd2edec
+
+
+
 ## Features
 - Download posts from a specific Instagram username
 - Download posts using direct links
