@@ -1,0 +1,2 @@
+instaloader==4.10.1
+typing==3.7.4.3
