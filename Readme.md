@@ -1,5 +1,5 @@
 # Instagram Post Downloader
-
+- WARNING: PLEASE CAREFULLY TO USE THE APP, BECAUSE IT CAN MAKE YOU LOCK YOUR ACCOUNT (TEST with 150 posts and the IG was warning my account)
 ## Description
 A Python script to download Instagram posts by username or specific post links using the Instaloader library.
 
